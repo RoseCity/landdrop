@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 84" width="440" height="84">
+  <title>Download LandDrop for Windows</title>
+  <path d="M10 0 H440 L430 84 H0 Z" fill="#e0b44a"/>
+  <g transform="translate(30 20)" fill="none" stroke="#14110a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 0 V30 M10 19 L22 31 L34 19 M4 42 H40"/>
+  </g>
+  <!-- textLength: the same width whatever font the viewer has (GitHub shows this as an image, without web fonts) -->
+  <text x="90" y="45" textLength="310" lengthAdjust="spacingAndGlyphs" font-family="'Arial Narrow','Barlow Condensed',Arial,sans-serif" font-weight="700" font-size="32" fill="#14110a">DOWNLOAD LANDDROP</text>
+  <text x="91" y="67" textLength="300" lengthAdjust="spacingAndGlyphs" font-family="Arial,sans-serif" font-weight="600" font-size="13" fill="#3a3020">NEWEST VERSION · WINDOWS 10 / 11</text>
+</svg>
