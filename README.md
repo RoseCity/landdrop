@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-    <img src="banner-light.png" alt="LandDrop: Your deck isn’t the problem." width="100%">
-  </picture>
+  <img src="banner.png" alt="LandDrop: Your deck isn’t the problem." width="100%">
 </p>
 
 <p align="center">Commander (Magic: The Gathering) on your PC, against the computer. Free.</p>
@@ -49,6 +46,6 @@ Your decks, settings and games stay on your PC. LandDrop only goes online for ca
 
 ## Credits
 
-LandDrop runs on [Forge](https://github.com/Card-Forge/forge) and is free software under the GNU GPL v3, like Forge; its source code is included with every install. Card images come from [Scryfall](https://scryfall.com). Music credits are in the game’s Settings.
+LandDrop runs on [Forge](https://github.com/Card-Forge/forge) and is free software under the GNU GPL v3, like Forge; its source code is included with every install. Card images come from [Scryfall](https://scryfall.com). The mountain picture is made from a photo by [elroy_from_021](https://unsplash.com/@elroy_from_021) on Unsplash. Music and art credits are in the game’s Settings.
 
 LandDrop is a fan-made hobby project, not affiliated with or endorsed by Wizards of the Coast. Magic: The Gathering and its card names and images belong to Wizards of the Coast.
