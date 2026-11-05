@@ -16,7 +16,7 @@
 
 ## What it is
 
-LandDrop is a place to practise Commander. Pick a deck, sit down with computer opponents and play a full game, with the rules handled for you by [Forge](https://github.com/Card-Forge/forge)’s rules engine. The table is built to be easy to read: you can always see what’s on the stack, what’s attacking what, and why the game is asking you something.
+LandDrop is a place to play Magic: The Gathering on your PC: Commander pods, the 60-card formats (Standard, Pioneer, Modern, Legacy, Vintage and Pauper), puzzles, and the Lab for setting up any board you like. Pick a deck, sit down with computer opponents (or pass the seat to a friend) and play a full game, with the rules handled for you by [Forge](https://github.com/Card-Forge/forge)’s rules engine. The table is built to be easy to read: you can always see what’s on the stack, what’s attacking what, and why the game is asking you something.
 
 It’s for learning your cards, trying out a new deck, or just getting a game in when your pod isn’t around.
 
@@ -48,4 +48,4 @@ Your decks, settings and games stay on your PC. LandDrop only goes online for ca
 
 LandDrop runs on [Forge](https://github.com/Card-Forge/forge) and is free software under the GNU GPL v3, like Forge; its source code is included with every install. Card images come from [Scryfall](https://scryfall.com). The mountain picture is made from a photo by [elroy_from_021](https://unsplash.com/@elroy_from_021) on Unsplash. Music and art credits are in the game’s Settings.
 
-LandDrop is a fan-made hobby project, not affiliated with or endorsed by Wizards of the Coast. Magic: The Gathering and its card names and images belong to Wizards of the Coast.
+LandDrop is a fan-made hobby project that did utilize Claude, not affiliated with or endorsed by Wizards of the Coast. Magic: The Gathering and its card names and images belong to Wizards of the Coast.
