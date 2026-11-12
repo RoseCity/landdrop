@@ -2,7 +2,7 @@
   <img src="banner.png" alt="LandDrop: Your deck isn’t the problem." width="100%">
 </p>
 
-<p align="center">Commander (Magic: The Gathering) on your PC, against the computer. Free.</p>
+<p align="center">Magic: The Gathering on your PC: Commander and more, against the computer. Free.</p>
 
 <p align="center">
   <a href="https://github.com/RoseCity/landdrop/releases/latest/download/LandDrop-Setup.exe">
