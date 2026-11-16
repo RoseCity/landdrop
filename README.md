@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="LandDrop: Your deck isn’t the problem." width="100%">
+  <img src="banner.jpg" alt="LandDrop: Your deck isn’t the problem." width="100%">
 </p>
 
 <p align="center">Magic: The Gathering on your PC: Commander and more, against the computer. Free.</p>
@@ -29,7 +29,7 @@ It’s for learning your cards, trying out a new deck, or just getting a game in
 - **Puzzles** to solve, **Rewind** to replay a turn differently, and **Save & leave** to finish a game later.
 - **Deck insights:** brackets, salt, mana curve, combos in your deck, and your own play statistics.
 - **Other formats:** Standard, Pioneer, Modern, Legacy, Vintage and Pauper.
-- **Make it yours:** card backs (animated GIFs too), playmats, colour-blind palettes, and your own music from YouTube or SoundCloud.
+- **Make it yours:** card backs (animated GIFs too), playmats, colour-blind palettes, and a music player at the table with radio stations or your own YouTube and SoundCloud playlists.
 - **Optional AI coach:** explanations, a post-game review and AI-model opponents, with an API key of your own. You don’t need it to play.
 
 ## Install
@@ -42,10 +42,10 @@ That’s it: Java comes with it, nothing else to install. When a new version is 
 
 ## Your data
 
-Your decks, settings and games stay on your PC. LandDrop only goes online for card pictures and deck lookups (Scryfall, Commander Spellbook, EDHREC, the deck sites you import from), to check for updates, and to reach your AI provider if you add a key.
+Your decks, settings and games stay on your PC. LandDrop only goes online for card pictures and deck lookups (Scryfall, Commander Spellbook, EDHREC, the deck sites you import from), to check for updates, to play the radio stations and playlists (YouTube, SoundCloud), to fetch an animated card back the first time you pick one (GIPHY), and to reach your AI provider if you add a key.
 
 ## Credits
 
-LandDrop runs on [Forge](https://github.com/Card-Forge/forge) and is free software under the GNU GPL v3, like Forge; its source code is included with every install. Card images come from [Scryfall](https://scryfall.com). The mountain picture is made from a photo by [elroy_from_021](https://unsplash.com/@elroy_from_021) on Unsplash. Music and art credits are in the game’s Settings.
+LandDrop runs on [Forge](https://github.com/Card-Forge/forge) and is free software under the GNU GPL v3, like Forge; its source code is included with every install. Card images come from [Scryfall](https://scryfall.com). The land pictures are made from photos on Unsplash by [elroy_from_021](https://unsplash.com/@elroy_from_021), [michael75](https://unsplash.com/@michael75), [Patrick Hendry](https://unsplash.com/@worldsbetweenlines), [Krystian Piątek](https://unsplash.com/@krystian_piatek), [Matthew Smith](https://unsplash.com/@whale) and [Marc Sendra Martorell](https://unsplash.com/@marcsm). The animated card backs are by [kidmograph](https://giphy.com/gustavo/) and [Ojin Ngode](https://giphy.com/channel/ojingode/) on GIPHY, and one from [r/NatureGifs](https://www.reddit.com/r/gifs/comments/1ncao9/salmon_river_idaho_xpost_rnaturegifs/) (author unknown). Music and art credits are in the game’s Settings.
 
 LandDrop is a fan-made hobby project that did utilize Claude, not affiliated with or endorsed by Wizards of the Coast. Magic: The Gathering and its card names and images belong to Wizards of the Coast.
